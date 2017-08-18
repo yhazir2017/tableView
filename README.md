@@ -1,4 +1,4 @@
-# Pre-work - Table View
+# Table View
 
 Table View is a table view application for iOS.
 
