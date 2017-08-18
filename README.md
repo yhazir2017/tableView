@@ -10,7 +10,7 @@ Time spent: Initially 30 minutes.
 
 Here's a walkthrough of implemented user stories:
 
-![Screenhots](https://github.com/yhazir2017/tableView/master/tableView.png)
+![Screenhots](https://github.com/yhazir2017/tableView/master/tableView.gif)
 
 
 ## Notes
